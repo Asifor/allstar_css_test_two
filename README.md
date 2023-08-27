@@ -1,5 +1,3 @@
-CSS Competence Unpaid Trial Task #2
-
 Objective: Create a single-page website focusing on CSS transitions, transforms, and pseudo-elements to demonstrate your prowess in intricate detail work and animation. The open-ended nature of this task allows for creativity and the demonstration of your unique style.
 
 Specifications:
